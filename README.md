@@ -9,7 +9,8 @@
 
 ## 📊 GitHub Stats  
 
-<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.gifer.com/3jnq.gif)" width="300px">  
+![M-G-0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)  
+
 
 ## 🚀 Tecnologías & Herramientas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
