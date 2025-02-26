@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats  
 
-![M-G-0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)  
+![M-G-0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-G-0&show_icons=true&theme=radical)  
 
 
 ## 🚀 Tecnologías & Herramientas  
